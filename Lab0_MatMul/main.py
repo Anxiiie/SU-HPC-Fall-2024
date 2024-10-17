@@ -10,7 +10,7 @@ def matrix_multiplication_cpu(A, B):
     size = A.shape[0] # "Узнаем" размер матриц для данного метода
     C = np.zeros((size,size)) # определяем размерность результирующей матрицы
     
-    # Не лучший код для того, чтобы разница была значительнее
+    # Перемножение матриц
     for i in range(len(A)):
         for j in range(len(B[0])):
             for k in range(len(B)):
