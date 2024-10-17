@@ -36,8 +36,12 @@
 
 
 <h2> Оборудование: </h2>
-<h5> CPU: AMD Ryzen 7 PRO 2700 Eight-Core Processor  
-	GPU: NVIDIA GeForce GTX 1060 6GB</h5>  
+<h5>  
+	
+CPU: AMD Ryzen 7 PRO 2700 Eight-Core Processor  
+	
+GPU: NVIDIA GeForce GTX 1060 6GB  
+</h5>  
  
 <h2> Результаты представлены в таблице: </h2>
 
