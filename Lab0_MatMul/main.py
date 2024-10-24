@@ -8,7 +8,7 @@ from prettytable import PrettyTable
 # Результаты были получены без него
 def matrix_multiplication_cpu(A, B):
     size = A.shape[0] # "Узнаем" размер матриц для данного метода
-    C = np.zeros((size,size)) # определяем размерность результирующей матрицы
+    C = np.zeros((size,size)) # Выделяем память для результирующей матрицы
     
     # Перемножение матриц
     for i in range(len(A)):
