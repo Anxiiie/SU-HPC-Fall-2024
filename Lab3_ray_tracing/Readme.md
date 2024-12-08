@@ -58,7 +58,7 @@ GPU: NVIDIA GeForce GTX 1060 6GB
  
 <h2> Результаты: </h2>
 <p align="center">
- <img width="200px" src="test.bmp" alt="qr"/>
+ <img width="720px" src="test.bmp" alt="qr"/>
 </p>
 
 
