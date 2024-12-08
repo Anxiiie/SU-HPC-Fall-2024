@@ -11,17 +11,3 @@
 - Материалы компании Applied Parallel Computing LLC
 - Наработки автора
 
-# Лекции
-
-Здесь [будут] представлены слайды для презентаций, которые демонстрировались во время лекций:
-- Lecture 1 (17.09.2024, 13:30): Introduction to CUDA (Part 1) [запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/5e87918ed2ea6a7000cee0106f2ee48053a3efcb-1726565207850)
-
-# Лабораторные работы
-
-[Ссылка в Google Drive на таблицу с результатами по лабораторным работам](https://docs.google.com/spreadsheets/d/1UPK6LZmWMhn86b5N76UAM5FdmBgmhh05rP_DREzAkVc/edit?usp=sharing)
-
-[Задания лабораторных тут](https://drive.google.com/drive/folders/1u9rVHsSkzNE3DWfA2_4V9ayKGxMCMai-?usp=sharing).
-
-# Сценарий проведения зачета
-
-TBD
